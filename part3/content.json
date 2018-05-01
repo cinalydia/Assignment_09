@@ -1,0 +1,27 @@
+{"managementTeam": [
+    {
+        "name":"Carly Martinez",
+        "title":"CEO",
+        "bio":"Carly likes Fruit Loops, Salad, Chow Mein and Chicken, and Ice Cream."
+    },
+    {
+        "name":"Joey Bob Fallon",
+        "title":"HR",
+        "bio":"Joey likes Pancakes, Reuben, Fettuccine Alfredo, and Cheesecake."
+    },
+    {
+        "name":"Amanda Sanchez",
+        "title":"Accounting",
+        "bio":"Amanda likes Omelettes, Mac and Cheese, Pizza, and Cookies."
+    },
+    {
+        "name":"Bobby Green",
+        "title":"Engineering",
+        "bio":"Bobby likes Yogurt, Rice and Eggs, BBQ Ribs, and Cake."
+    },
+    {
+        "name":"Raquel Johnson",
+        "title":"Communications and Marketing",
+        "bio":"Raquel likes Oatmeal, Pasta Salad, Orange Chicken, and Fortune Cookies."
+    }
+]}
